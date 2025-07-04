@@ -3,4 +3,5 @@ For both unet.py and train.py all relevant libraries have been included in the i
 To run the code, simply run the jobscript_slurm file.
 
 Codalab username: JelcoC
+
 TU/e email: j.v.claessens@student.tue.nl
