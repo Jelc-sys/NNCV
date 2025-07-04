@@ -21,7 +21,7 @@ This repository contains the code used for the final assignment of the course 5L
   - Combined Dice and focal loss with hyperparameter tuning
 
 ## Project Structure
-The 'Final Assignment' folder contains all files relevant to the assignment:
+The 'Final Assignment/submission' folder contains all files relevant to the assignment:
 - README.md: Contains information on running the code, as well as the student's Codalab username and academic contact details
 - jobscript_slurm.sh: A file with training settings to be used by the Snellius supercomputer
 - main.sh: The final hyperparameter settings used to train the architecture submitted to the Codalab benchmarks
